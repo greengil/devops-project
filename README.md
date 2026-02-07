@@ -28,3 +28,6 @@
 - OS: WSL2 Ubuntu
 - IDE: Cursor
 - Version Control: Git
+
+## About
+Learn more [about my journey](about.md).
