@@ -31,3 +31,6 @@
 
 ## About
 Learn more [about my journey](about.md).
+
+## Learning Resources
+Check out my curated list of [DevOps learning resources](learning-resources.md).
