@@ -1,5 +1,10 @@
 # My DevOps Learning Journey
 
+![Python CI](https://github.com/greengil/devops-project/workflows/Python%20CI/badge.svg)
+![Security Scan](https://github.com/greengil/devops-project/workflows/Security%20Scan/badge.svg)
+![CI Status](https://github.com/greengil/devops-project/workflows/CI%20Status/badge.svg)
+
+--
 **Started:** February 7, 2025  
 **By:** Gil Ohayon
 
