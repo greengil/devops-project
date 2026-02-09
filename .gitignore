@@ -1,0 +1,7 @@
+
+# CI/CD outputs
+bandit-report.json
+coverage.xml
+.pytest_cache/
+*.pyc
+__pycache__/
